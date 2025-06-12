@@ -1,0 +1,30 @@
+.text-body-lead-large{
+font-size: 19px !important;
+}
+.row-style{
+    grid-auto-rows: 1fr;
+}
+.co-style {
+    display: flex;
+}
+
+ul._pp {
+    font-size: 17px;
+    margin-left: 31px;
+    color: #6e6e6e;
+}
+h1.text-display-2 {
+    font-size: 46px;
+    line-height: 50px;
+}
+
+ul._oped {
+    font-size: 22px;
+    line-height: 36px;
+    color: #555;
+}
+
+.text-heading-4 {
+    font-size: 18px;
+    line-height: 23px;
+}
